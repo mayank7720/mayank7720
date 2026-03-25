@@ -50,6 +50,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank7720&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
+<div align="center">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/mayank7720/mayank7720/output/github-contribution-grid-snake.svg" />
+</div>
+
 ---
 
 ## 🧠 Coding Insights  
