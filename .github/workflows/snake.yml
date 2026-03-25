@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -36,7 +36,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
