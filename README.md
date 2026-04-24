@@ -1,11 +1,11 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  🔮 MAYANK RAJ — ELITE 3D CYBERPUNK GITHUB PROFILE            ║ -->
-<!-- ║  Theme: Neon Green + Purple + Cyan + Magenta on Black          ║ -->
+<!-- ║  🔮 MAYANK RAJ — ELITE TECH GITHUB PROFILE                    ║ -->
+<!-- ║  Theme: Purple + Violet + Cyan on Dark                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ━━━━━━━━━━━━━━ 3D ANIMATED HERO BANNER ━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,15:00ff41,40:6c3ce9,60:00d4ff,80:ff00ff,100:0d1117&height=230&section=header&text=⚡%20MAYANK%20RAJ%20⚡&fontColor=00ff41&fontSize=70&fontAlignY=45&animation=scaleIn&desc=「%20FUTURE%20SOFTWARE%20ENGINEER%20」&descAlignY=75&descSize=20&descColor=00d4ff&stroke=6c3ce9&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:7c3aed,50:a855f7,80:7c3aed,100:0d1117&height=230&section=header&text=⚡%20MAYANK%20RAJ%20⚡&fontColor=c084fc&fontSize=70&fontAlignY=45&animation=scaleIn&desc=「%20FUTURE%20SOFTWARE%20ENGINEER%20」&descAlignY=75&descSize=20&descColor=22d3ee&stroke=a855f7&strokeWidth=2" width="100%"/>
 </p>
 
 <!-- ━━━━━━━━━━━━━━ ANIMATED CODING GIF ━━━━━━━━━━━━━━ -->
@@ -16,7 +16,7 @@
 <!-- ━━━━━━━━━━━━━━ GLITCH TYPING ANIMATION ━━━━━━━━━━━━━━ -->
 <p align="center">
   <a href="https://github.com/mayank7720">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=600&color=6C3CE9&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%24+sudo+./init_system+--hacker-mode+🔓;%24+loading_modules%3A+Java+%7C+React+%7C+Node.js+%7C+AI+🧠;%24+status%3A+BUILDING+THE+FUTURE...+%E2%9A%A1;%24+echo+%22The+code+never+sleeps%22+💀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%24+sudo+./init_system+--dev-mode+🚀;%24+loading_modules%3A+Java+%7C+React+%7C+Node.js+%7C+AI+🧠;%24+status%3A+BUILDING+THE+FUTURE...+%E2%9A%A1;%24+echo+%22Code+is+poetry%22+💜" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,18 +28,18 @@
 <!-- ━━━━━━━━━━━━━━ BADGE BAR ━━━━━━━━━━━━━━ -->
 <p align="center">
   <a href="https://github.com/mayank7720?tab=followers">
-    <img src="https://img.shields.io/github/followers/mayank7720?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/mayank7720?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=0d1117&color=a855f7" alt="Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_GLA_UNIVERSITY-6c3ce9?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎓_GLA_UNIVERSITY-7c3aed?style=for-the-badge&labelColor=0d1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_B.TECH_CSE-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡_B.TECH_CSE-22d3ee?style=for-the-badge&labelColor=0d1117"/>
   &nbsp;
   <a href="https://github.com/mayank7720?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mayank7720?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=0d1117&color=ff00ff&label=TOTAL+STARS" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/mayank7720?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d1117&color=c084fc&label=TOTAL+STARS" alt="Stars"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mayank7720&style=for-the-badge&color=00ff41&labelColor=0d1117&label=👁️+VISITORS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mayank7720&style=for-the-badge&color=a855f7&labelColor=0d1117&label=👁️+VISITORS" alt="Profile Views"/>
 </p>
 
 <br/>
@@ -72,7 +72,7 @@ const mayank = {
 <!-- ━━━━━━━━━━━━━━ HACKER TERMINAL ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🖥️%20SYSTEM%20TERMINAL&fontSize=35&fontColor=00ff41&fontAlignY=50&height=80&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🖥️%20SYSTEM%20TERMINAL&fontSize=35&fontColor=a855f7&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <br/>
@@ -118,11 +118,11 @@ mayank@cybercore:~$ cat /proc/skills.json
 <!-- ━━━━━━━━━━━━━━ TECH ARSENAL ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=⚡%20TECH%20ARSENAL&fontSize=35&fontColor=ff00ff&fontAlignY=50&height=80&animation=fadeIn&stroke=ff00ff&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=⚡%20TECH%20ARSENAL&fontSize=35&fontColor=c084fc&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&repeat=true&width=600&lines=%5B+LOADING+WEAPON+SYSTEMS...+%5D;%5B+ARSENAL+READY+✓+%5D" alt="Tech Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=%5B+LOADING+TECH+STACK...+%5D;%5B+ARSENAL+READY+✓+%5D" alt="Tech Typing"/>
 </p>
 
 <table align="center">
@@ -168,33 +168,33 @@ mayank@cybercore:~$ cat /proc/skills.json
 <!-- ━━━━━━━━━━━━━━ GITHUB ANALYTICS ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=📊%20GITHUB%20INTELLIGENCE&fontSize=35&fontColor=00d4ff&fontAlignY=50&height=80&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=📊%20GITHUB%20INTELLIGENCE&fontSize=35&fontColor=a855f7&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=%5B+SCANNING+GITHUB+MATRIX...+%5D;%5B+DATA+RETRIEVED+✓+%5D" alt="Stats Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=%5B+SCANNING+GITHUB+DATA...+%5D;%5B+DATA+RETRIEVED+✓+%5D" alt="Stats Typing"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank7720&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=6c3ce9&title_color=00d4ff&icon_color=ff00ff&text_color=00ff41&hide_border=false&count_private=true&include_all_commits=true&ring_color=6c3ce9" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank7720&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0&hide_border=false&count_private=true&include_all_commits=true&ring_color=7c3aed" height="180" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank7720&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=6c3ce9&title_color=00d4ff&text_color=00ff41&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank7720&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a855f7&text_color=e2e8f0&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
 <br/>
 
 <!-- ━━━━━━━━━━━━━━ STREAK STATS ━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank7720&theme=chartreuse-dark&background=0d1117&border=6c3ce9&stroke=6c3ce9&ring=ff00ff&fire=00ff41&currStreakLabel=00d4ff&sideLabels=ff00ff&currStreakNum=00ff41&sideNums=00d4ff&dates=6c3ce980" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank7720&theme=tokyonight&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=22d3ee&sideLabels=a855f7&currStreakNum=c084fc&sideNums=22d3ee&dates=8b5cf680" alt="Streak Stats"/>
 </p>
 
 <br/>
 
 <!-- ━━━━━━━━━━━━━━ ACTIVITY GRAPH ━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank7720&bg_color=0d1117&color=00ff41&line=6c3ce9&point=ff00ff&area=true&area_color=6c3ce920&hide_border=false&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH&title_color=00d4ff&border_color=6c3ce9" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank7720&bg_color=0d1117&color=c084fc&line=a855f7&point=22d3ee&area=true&area_color=7c3aed20&hide_border=false&custom_title=⚡%20CONTRIBUTION%20ACTIVITY%20GRAPH&title_color=a855f7&border_color=7c3aed" width="95%" alt="Activity Graph"/>
 </p>
 
 <br/>
@@ -205,7 +205,7 @@ mayank@cybercore:~$ cat /proc/skills.json
 <!-- ━━━━━━━━━━━━━━ CONTRIBUTION SNAKE ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=35&fontColor=00ff41&fontAlignY=50&height=80&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=35&fontColor=c084fc&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <p align="center">
@@ -221,7 +221,7 @@ mayank@cybercore:~$ cat /proc/skills.json
 <!-- ━━━━━━━━━━━━━━ 3D CONTRIBUTION CHART ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🧊%203D%20CONTRIBUTION%20MAP&fontSize=35&fontColor=6c3ce9&fontAlignY=50&height=80&animation=fadeIn&stroke=6c3ce9&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🧊%203D%20CONTRIBUTION%20MAP&fontSize=35&fontColor=a855f7&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <p align="center">
@@ -230,8 +230,6 @@ mayank@cybercore:~$ cat /proc/skills.json
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━ ANIMATED DIVIDER ━━━━━━━━━━━━━━ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 
 
@@ -241,11 +239,11 @@ mayank@cybercore:~$ cat /proc/skills.json
 <!-- ━━━━━━━━━━━━━━ FEATURED PROJECTS ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🏆%20FEATURED%20PROJECTS&fontSize=35&fontColor=00d4ff&fontAlignY=50&height=80&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🏆%20FEATURED%20PROJECTS&fontSize=35&fontColor=a855f7&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&lines=%5B+ACCESSING+PROJECT+VAULT...+%5D;%5B+TOP+SECRET+FILES+LOADED+✓+%5D" alt="Projects Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=%5B+ACCESSING+PROJECT+VAULT...+%5D;%5B+TOP+PROJECTS+LOADED+✓+%5D" alt="Projects Typing"/>
 </p>
 
 <br/>
@@ -253,16 +251,16 @@ mayank@cybercore:~$ cat /proc/skills.json
 <div align="center">
 
 <a href="https://github.com/mayank7720/PhantomShield-X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=PhantomShield-X&theme=chartreuse-dark&bg_color=0d1117&border_color=6c3ce9&title_color=00d4ff&icon_color=ff00ff&text_color=00ff41" alt="PhantomShield-X"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=PhantomShield-X&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" alt="PhantomShield-X"/>
 </a>
 <a href="https://github.com/mayank7720/Online-Food-Delivery-App-Backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=Online-Food-Delivery-App-Backend&theme=chartreuse-dark&bg_color=0d1117&border_color=6c3ce9&title_color=00d4ff&icon_color=ff00ff&text_color=00ff41" alt="Food Delivery"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=Online-Food-Delivery-App-Backend&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" alt="Food Delivery"/>
 </a>
 <a href="https://github.com/mayank7720/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=My-Portfolio&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&title_color=00d4ff&icon_color=ff00ff&text_color=00ff41" alt="Portfolio"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=My-Portfolio&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" alt="Portfolio"/>
 </a>
 <a href="https://github.com/mayank7720/DSA-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=DSA-&theme=chartreuse-dark&bg_color=0a0a0a&border_color=00ff41&title_color=00d4ff&icon_color=ff00ff&text_color=00ff41" alt="DSA"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayank7720&repo=DSA-&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0" alt="DSA"/>
 </a>
 
 </div>
@@ -291,8 +289,8 @@ Tech: FastAPI + React + TypeScript + scikit-learn + YARA
 ```
 
 <p align="center">
-  <a href="https://phantom-shield-x.vercel.app"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00ff41?style=for-the-badge&labelColor=0a0a0a" alt="Demo"/></a>
-  <a href="https://github.com/mayank7720/PhantomShield-X"><img src="https://img.shields.io/badge/📂_SOURCE-6c3ce9?style=for-the-badge&labelColor=0a0a0a" alt="Source"/></a>
+  <a href="https://phantom-shield-x.vercel.app"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-a855f7?style=for-the-badge&labelColor=0d1117" alt="Demo"/></a>
+  <a href="https://github.com/mayank7720/PhantomShield-X"><img src="https://img.shields.io/badge/📂_SOURCE-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Source"/></a>
 </p>
 
 </details>
@@ -318,7 +316,7 @@ Tech: FastAPI + React + TypeScript + scikit-learn + YARA
 <!-- ━━━━━━━━━━━━━━ HACKATHON ACHIEVEMENTS ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🏆%20HACKATHON%20%26%20ACHIEVEMENTS&fontSize=35&fontColor=00ff41&fontAlignY=50&height=80&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🏆%20HACKATHON%20%26%20ACHIEVEMENTS&fontSize=35&fontColor=c084fc&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <br/>
@@ -343,7 +341,7 @@ Tech: FastAPI + React + TypeScript + scikit-learn + YARA
 <!-- ━━━━━━━━━━━━━━ CODING JOURNEY ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🗺️%20EVOLUTION%20TIMELINE&fontSize=35&fontColor=6c3ce9&fontAlignY=50&height=80&animation=fadeIn&stroke=6c3ce9&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🗺️%20EVOLUTION%20TIMELINE&fontSize=35&fontColor=a855f7&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <br/>
@@ -379,11 +377,11 @@ timeline
 <!-- ━━━━━━━━━━━━━━ DAILY DEV QUOTE ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=💬%20HACKER'S%20WISDOM&fontSize=35&fontColor=ff00ff&fontAlignY=50&height=80&animation=fadeIn&stroke=ff00ff&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=💬%20DEV%20WISDOM&fontSize=35&fontColor=c084fc&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border_color=6c3ce9&quote_color=00ff41&author_color=ff00ff" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d1117&border_color=7c3aed&quote_color=c084fc&author_color=a855f7" alt="Dev Quote"/>
 </p>
 
 <br/>
@@ -394,26 +392,26 @@ timeline
 <!-- ━━━━━━━━━━━━━━ CONNECT WITH ME ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🌐%20CONNECT%20%26%20COLLABORATE&fontSize=35&fontColor=00d4ff&fontAlignY=50&height=80&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="60%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=🌐%20CONNECT%20%26%20COLLABORATE&fontSize=35&fontColor=a855f7&fontAlignY=50&height=80&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="60%"/>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/mayank7720" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=0a0a0a&labelColor=0d1117" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mayank-raj-221522381/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6c3ce9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:mayankraj7720@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
   </a>
   &nbsp;
   <a href="https://mayank7720.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-c084fc?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>
 </p>
 
@@ -422,7 +420,7 @@ timeline
 <!-- ━━━━━━━━━━━━━━ SUPPORT ━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=700&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Let's+build+something+legendary+together!;💀+The+code+never+sleeps...+neither+do+I" alt="Support Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=700&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Let's+build+something+legendary+together!;💜+Code+is+the+art+of+the+future" alt="Support Typing"/>
 </p>
 
 <!-- ━━━━━━━━━━━━━━ ANIMATED TECH ICONS ━━━━━━━━━━━━━━ -->
@@ -455,17 +453,17 @@ timeline
 ║                                                                                ║
 ║              M A Y A N K   R A J  —  m a y a n k 7 7 2 0                       ║
 ║                                                                                ║
-║    "The matrix has you... but I have the source code." 🟢                      ║
+║    "The code is the canvas, and we are the artists." 💜                      ║
 ║                                                                                ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,15:00ff41,40:6c3ce9,60:00d4ff,80:ff00ff,100:0d1117&height=120&section=footer&animation=twinkling&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:7c3aed,50:a855f7,80:7c3aed,100:0d1117&height=120&section=footer&animation=twinkling&reversal=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=6C3CE9&center=true&vCenter=true&repeat=true&width=500&lines=💀+Crafted+with+obsession+by+Mayank+Raj;🔗+github.com/mayank7720;⚡+The+matrix+has+you...+but+I+have+the+source+code" alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=💜+Crafted+with+passion+by+Mayank+Raj;🔗+github.com/mayank7720;⚡+Building+the+future+one+commit+at+a+time" alt="Footer"/>
 </p>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
