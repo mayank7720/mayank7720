@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  🔮 MAYANK RAJ — ELITE TECH GITHUB PROFILE                    ║ -->
-<!-- ║  Theme: Purple + Violet + Cyan on Dark                        ║ -->
+<!-- ║  Theme: Light Pink + Purple + Cyan on Dark                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ━━━━━━━━━━━━━━ 3D ANIMATED HERO BANNER ━━━━━━━━━━━━━━ -->
