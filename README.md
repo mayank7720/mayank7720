@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/mayank7720">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%24+whoami+→+Mayank+Raj+🚀;%24+role+→+Future+Software+Engineer+⚡;%24+stack+→+Java+%7C+React+%7C+Node.js+%7C+AI+🧠;%24+motto+→+Build.+Learn.+Win.+Repeat.+💎" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%24%20whoami%20%E2%86%92%20Mayank%20Raj%20%F0%9F%9A%80%3B%24%20role%20%E2%86%92%20Future%20Software%20Engineer%20%E2%9A%A1%3B%24%20stack%20%E2%86%92%20Java%20%7C%20React%20%7C%20Node.js%20%7C%20AI%20%F0%9F%A7%A0%3B%24%20motto%20%E2%86%92%20Build.%20Learn.%20Win.%20Repeat.%20%F0%9F%92%8E" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -88,7 +88,7 @@ const mayank = {
 <h2 align="center">⚔️ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&repeat=true&width=500&lines=%5B+INITIALIZING+WEAPON+SYSTEMS...+%5D;%5B+ALL+SYSTEMS+ONLINE+✓+%5D" alt="Arsenal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&repeat=true&width=500&lines=%5B%20INITIALIZING%20WEAPON%20SYSTEMS...%20%5D%3B%5B%20ALL%20SYSTEMS%20ONLINE%20%E2%9C%93%20%5D" alt="Arsenal"/>
 </p>
 
 <table align="center">
@@ -134,7 +134,7 @@ const mayank = {
 <h2 align="center">📊 GitHub Power Stats</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=500&lines=%5B+SCANNING+PERFORMANCE+DATA...+%5D;%5B+ANALYSIS+COMPLETE+✓+%5D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&repeat=true&width=500&lines=%5B%20SCANNING%20PERFORMANCE%20DATA...%20%5D%3B%5B%20ANALYSIS%20COMPLETE%20%E2%9C%93%20%5D"/>
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ const mayank = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank7720&bg_color=0d1117&color=94a3b8&line=00ffaa&point=0ea5e9&area=true&area_color=00ffaa15&hide_border=false&custom_title=⚡+Contribution+Activity+Graph&title_color=00ffaa&border_color=1e293b" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank7720&bg_color=0d1117&color=94a3b8&line=00ffaa&point=0ea5e9&area=true&area_color=00ffaa15&hide_border=false&custom_title=%E2%9A%A1+Contribution+Activity+Graph&title_color=00ffaa&border_color=1e293b" width="95%"/>
 </p>
 
 <p align="center">
@@ -187,7 +187,7 @@ const mayank = {
 <h2 align="center">🏆 Featured Project Vault</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=%5B+ACCESSING+PROJECT+VAULT...+%5D;%5B+TOP+SECRET+PROJECTS+LOADED+✓+%5D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=%5B%20ACCESSING%20PROJECT%20VAULT...%20%5D%3B%5B%20TOP%20SECRET%20PROJECTS%20LOADED%20%E2%9C%93%20%5D"/>
 </p>
 
 <div align="center">
@@ -352,7 +352,7 @@ timeline
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&repeat=true&width=700&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Let's+build+something+legendary+together!;💎+Build.+Learn.+Win.+Repeat." alt="CTA"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&repeat=true&width=700&lines=%E2%AD%90%20Star%20my%20repos%20if%20you%20find%20them%20useful!%3B%F0%9F%A4%9D%20Let's%20build%20something%20legendary%20together!%3B%F0%9F%92%8E%20Build.%20Learn.%20Win.%20Repeat." alt="CTA"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -391,7 +391,7 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=2000&color=00FFAA&center=true&vCenter=true&repeat=true&width=500&lines=💎+Crafted+with+obsession+by+Mayank+Raj;🔗+github.com/mayank7720;⚡+Build.+Learn.+Win.+Repeat." alt="Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=2000&color=00FFAA&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%92%8E%20Crafted%20with%20obsession%20by%20Mayank%20Raj%3B%F0%9F%94%97%20github.com%2Fmayank7720%3B%E2%9A%A1%20Build.%20Learn.%20Win.%20Repeat." alt="Footer"/>
 </p>
 
 <!-- ═══════════════════════════════════════════ -->
