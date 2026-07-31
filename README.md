@@ -7,7 +7,7 @@
 <div align="center">
 
   <h1>⚡ MAYANK RAJ ⚡</h1>
-  <p><b>Software Engineer • Full Stack Developer • AI & Cybersecurity Innovator</b></p>
+  <p><b>Software Engineer • Data Science • AI & Cybersecurity Innovator</b></p>
 
   <a href="https://github.com/mayank7720">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Full-Stack+Web+Applications;Pioneering+AI+Threat+Detection+%26+Cybersecurity;Engineering+Predictive+Machine+Learning+Models;Mastering+Data+Structures+%26+Algorithms+in+Java" alt="Typing Banner" style="max-width: 100%;"/>
@@ -53,10 +53,10 @@
 ```json
 {
   "developer": "Mayank Raj",
-  "role": "Full Stack Developer & AI Enthusiast",
+  "role": "Data Science & AI Enthusiast",
   "location": "India 🇮🇳",
   "education": "B.Tech CSE @ GLA University",
-  "affiliation": "DATUM Club — Technical Team",
+  "affiliation": "DATUM Club && H4T— Technical Team",
   "core_competencies": [
     "Full-Stack Web Engineering",
     "Applied Machine Learning & Data Analytics",
