@@ -4,33 +4,33 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ==================== HERO SECTION ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:101827,50:0f172a,75:1e1b4b,100:0d1117&height=220&section=header&text=MAYANK%20RAJ&fontColor=00F5D4&fontSize=64&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=68&descSize=18&descColor=94A3B8&stroke=00F5D4&strokeWidth=1" width="100%" alt="Header Banner"/>
-</p>
+<div align="center">
 
-<p align="center">
+  <h1>⚡ MAYANK RAJ ⚡</h1>
+  <p><b>Software Engineer • Full Stack Developer • AI & Cybersecurity Innovator</b></p>
+
   <a href="https://github.com/mayank7720">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Building+Scalable+Full-Stack+Web+Applications;Pioneering+AI+Threat+Detection+%26+Cybersecurity;Engineering+Predictive+Machine+Learning+Models;Mastering+Data+Structures+%26+Algorithms+in+Java" alt="Typing Banner"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Full-Stack+Web+Applications;Pioneering+AI+Threat+Detection+%26+Cybersecurity;Engineering+Predictive+Machine+Learning+Models;Mastering+Data+Structures+%26+Algorithms+in+Java" alt="Typing Banner" style="max-width: 100%;"/>
   </a>
-</p>
 
-<!-- Quick Badges & Connect -->
-<p align="center">
+  <br/><br/>
+
+  <!-- Connect Badges -->
   <a href="https://mayank7720.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0d1117?style=for-the-badge&logo=firefox&logoColor=00F5D4&labelColor=0d1117&color=00F5D4" height="38"/>
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-0d1117?style=for-the-badge&logo=firefox&logoColor=00F5D4&labelColor=0d1117&color=00F5D4" height="36"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mayank-raj-221522381/">
-    <img src="https://img.shields.io/badge/🤝_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=0A66C2" height="38"/>
+    <img src="https://img.shields.io/badge/🤝_LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=0A66C2" height="36"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:mayankraj7720@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_EMAIL_ME-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=EA4335" height="38"/>
+    <img src="https://img.shields.io/badge/✉️_EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=EA4335" height="36"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/mayank7720?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0d1117&color=A855F7" height="38"/>
+    <img src="https://img.shields.io/badge/🚀_REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0d1117&color=A855F7" height="36"/>
   </a>
-</p>
 
-<p align="center">
+  <br/><br/>
+
   <img src="https://komarev.com/ghpvc/?username=mayank7720&style=for-the-badge&color=00F5D4&labelColor=0d1117&label=🛸+PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
   <a href="https://github.com/mayank7720?tab=followers">
@@ -38,7 +38,8 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/🎓_GLA_UNIVERSITY-B.Tech_CSE-0EA5E9?style=for-the-badge&labelColor=0d1117"/>
-</p>
+
+</div>
 
 <hr style="border: 1px solid #1e293b;"/>
 
@@ -263,22 +264,19 @@
 <h2 align="center">📊 GitHub Metrics & Performance</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank7720&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=00f5d4&icon_color=00f0ff&text_color=94a3b8&hide_border=false&count_private=true&include_all_commits=true" height="185" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank7720&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=00f5d4&text_color=94a3b8&hide_border=false&langs_count=8" height="185" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank7720&theme=github_dark" width="98%" alt="GitHub Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mayank7720&theme=tokyonight&background=0d1117&border=1e293b&stroke=1e293b&ring=00f5d4&fire=00f0ff&currStreakLabel=00f5d4&sideLabels=00f0ff" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayank7720&theme=github_dark" width="32%" alt="Repos per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayank7720&theme=github_dark" width="32%" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mayank7720&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank7720&bg_color=0d1117&color=94a3b8&line=00f5d4&point=00f0ff&area=true&area_color=00f5d415&hide_border=false&custom_title=GitHub+Contribution+Activity+Graph&title_color=00f5d4&border_color=1e293b" width="95%" alt="Activity Graph"/>
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayank7720&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank7720&bg_color=0d1117&color=94a3b8&line=00f5d4&point=00f0ff&area=true&area_color=00f5d415&hide_border=false&custom_title=GitHub+Contribution+Activity+Graph&title_color=00f5d4&border_color=1e293b" width="98%" alt="Activity Graph"/>
 </p>
 
 <!-- Snake Contribution Grid -->
@@ -316,10 +314,7 @@
 <hr style="border: 1px solid #1e293b;"/>
 
 <!-- ==================== FOOTER ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:101827,50:0f172a,75:1e1b4b,100:0d1117&height=100&section=footer&animation=twinkling&reversal=true" width="100%" alt="Footer Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&repeat=true&width=600&lines=Architected+with+precision+by+Mayank+Raj;github.com%2Fmayank7720;Build.+Scale.+Innovate.+Repeat." alt="Footer Typing"/>
-</p>
+<div align="center">
+  <p><b>Architected with precision by Mayank Raj • <a href="https://github.com/mayank7720">github.com/mayank7720</a></b></p>
+  <p><i>Build. Scale. Innovate. Repeat.</i></p>
+</div>
