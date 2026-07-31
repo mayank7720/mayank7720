@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  MAYANK RAJ — SOFTWARE ENGINEER & FULL STACK DEVELOPER                       ║ -->
+<!-- ║  MAYANK RAJ — SOFTWARE ENGINEER & DATA SCIENCE SPECIALIST                    ║ -->
 <!-- ║  Theme: Obsidian Dark × Cyber Emerald × Neon Tech                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
@@ -7,10 +7,10 @@
 <div align="center">
 
   <h1>⚡ MAYANK RAJ ⚡</h1>
-  <p><b>Software Engineer • Data Science • AI & Cybersecurity Innovator</b></p>
+  <p><b>Software Engineer • Full Stack Developer • B.Tech CSE (Data Science) @ GLA University</b></p>
 
   <a href="https://github.com/mayank7720">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Full-Stack+Web+Applications;Pioneering+AI+Threat+Detection+%26+Cybersecurity;Engineering+Predictive+Machine+Learning+Models;Mastering+Data+Structures+%26+Algorithms+in+Java" alt="Typing Banner" style="max-width: 100%;"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=780&height=50&lines=Full+Stack+Developer+%7C+B.Tech+CSE+(Data+Science);Pioneering+AI+Threat+Detection+%26+Cybersecurity;Engineering+Predictive+Machine+Learning+Models;Mastering+Data+Structures+%26+Algorithms+in+Java" alt="Typing Banner" style="max-width: 100%;"/>
   </a>
 
   <br/><br/>
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/github/followers/mayank7720?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0d1117&color=00F5D4" alt="Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_GLA_UNIVERSITY-B.Tech_CSE-0EA5E9?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎓_GLA_UNIVERSITY-B.Tech_CSE_(Data_Science)-0EA5E9?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -53,18 +53,18 @@
 ```json
 {
   "developer": "Mayank Raj",
-  "role": "Data Science & AI Enthusiast",
+  "role": "Full Stack Developer & Data Science Specialist",
   "location": "India 🇮🇳",
-  "education": "B.Tech CSE @ GLA University",
-  "affiliation": "DATUM Club && H4T— Technical Team",
+  "education": "B.Tech CSE (Spec. in Data Science) @ GLA University",
+  "affiliation": "DATUM Club — Technical Team",
   "core_competencies": [
-    "Full-Stack Web Engineering",
     "Applied Machine Learning & Data Analytics",
+    "Full-Stack Web Engineering",
     "Cybersecurity & AI Threat Intelligence",
     "Data Structures & Algorithms (Java)"
   ],
-  "current_focus": "Building AI-native products & high-performance APIs",
-  "mindset": "Architect. Build. Scale. Innovate."
+  "current_focus": "Building AI-native products, ML pipelines & scalable APIs",
+  "mindset": "Architect. Analyze. Scale. Innovate."
 }
 ```
 
@@ -73,11 +73,11 @@
 
 ### 💡 Highlights & Expertise
 
-- 🚀 **Full-Stack Engineer**: Specialized in modern React/Next.js frontends and robust Node.js/FastAPI backends.
+- 📊 **Data Science & ML**: Specialized in B.Tech CSE (Data Science) building predictive models for sales forecasting, car valuation, and fake news detection.
+- 🚀 **Full-Stack Engineer**: Experienced in React/Next.js frontends and robust Node.js/FastAPI backends.
 - 🛡️ **Cybersecurity Innovator**: Creator of **PhantomShield-X**, an enterprise-grade AI threat detection platform.
-- 🤖 **ML & Data Analytics**: Engineered predictive models for sales forecasting, car valuation, and fake news detection.
 - 🧠 **Problem Solver**: Active DSA grinder implementing optimized algorithms in Java.
-- 🏛️ **Community Contributor**: Active member of **DATUM Club** & competitive hackathon participant.
+- 🏛️ **Community Contributor**: Active core technical team member at **DATUM Club** (Student Data Science & Tech Community).
 
 </td>
 </tr>
@@ -101,6 +101,10 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center"><b>Data Science & AI/ML</b></td>
+      <td><code>scikit-learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>NLP</code> • <code>Isolation Forest</code> • <code>YARA Engine</code> • <code>Data Visualization</code></td>
+    </tr>
+    <tr>
       <td align="center"><b>Languages</b></td>
       <td><code>Java</code> • <code>Python</code> • <code>C</code> • <code>JavaScript (ES6+)</code> • <code>TypeScript</code> • <code>SQL</code> • <code>HTML5/CSS3</code></td>
     </tr>
@@ -111,10 +115,6 @@
     <tr>
       <td align="center"><b>Backend & APIs</b></td>
       <td><code>Node.js</code> • <code>Express.js</code> • <code>FastAPI</code> • <code>RESTful APIs</code> • <code>Multithreaded Java Architecture</code></td>
-    </tr>
-    <tr>
-      <td align="center"><b>AI / ML & Data</b></td>
-      <td><code>scikit-learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>NLP</code> • <code>Isolation Forest</code> • <code>YARA Engine</code></td>
     </tr>
     <tr>
       <td align="center"><b>Databases</b></td>
@@ -299,8 +299,8 @@
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                          ENGINEERING ROADMAP                               ║
 ╠════════════════════════════════════════════════════════════════════════════╣
-║  [■■■■■■■■░░]  80%  │ Master Advanced Data Structures & Algorithms (Java)   ║
-║  [■■■■■■■░░░]  70%  │ Build Full-Stack AI & Cloud Systems                 ║
+║  [■■■■■■■■░░]  80%  │ Master B.Tech CSE (Data Science) Core Topics         ║
+║  [■■■■■■■░░░]  70%  │ Build Full-Stack AI, ML & Cloud Systems               ║
 ║  [■■■■■■░░░░]  60%  │ Deepen Cybersecurity & Threat Intelligence Skills   ║
 ║  [■■■■■░░░░░]  50%  │ Contribute to Major Open Source Frameworks           ║
 ║  [■■■■■■■■░░]  80%  │ Scale DATUM Club Technical Initiatives @ GLA        ║
