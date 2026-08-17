@@ -290,6 +290,10 @@
 
 <hr style="border: 1px solid #1e293b;"/>
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- ==================== MISSION CONTROL & ROADMAP ==================== -->
 <h2 align="center">🎯 2026 Developer Roadmap & Goals</h2>
 
