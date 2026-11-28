@@ -253,7 +253,18 @@
         <sub>Document Management Web App</sub>
       </td>
       <td>
-        
+      Sleek, intuitive document organization platform designed for seamless document storage, categorized indexing, and quick digital verification workflows.
+      </td>
+      <td align="center">
+        <code>TypeScript</code> <code>React</code> <code>Tailwind CSS</code><br/><br/>
+        <a href="https://kagzaat-dusky.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-00F5D4?style=flat-square&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/mayank7720/Kagzaat">
+          <img src="https://img.shields.io/badge/Repo-0EA5E9?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Repo"/>
+        </a>
+      </td>
+    </tr>        
     <tr>
       <td>
         <b>📊 Unemployment Dashboard</b><br/>
